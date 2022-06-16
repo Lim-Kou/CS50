@@ -1,2 +1,2 @@
 # CS50
-All CS50 Assignments 
+CS50 Scratch Assignment
